@@ -28,4 +28,5 @@ Inline模式 特点：
 
 提示：  
 1. Iframe模式下，也可以在命令行中指定 --inline 参数，此时状态信息除了在页面顶部显示，也在控制台显示。  
-2. 执行npm run start，查看执行情况。
+2. 执行npm run start，查看执行情况。  
+3. webpack-dev-server默认使用端口是8080。
