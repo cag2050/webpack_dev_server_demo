@@ -1,5 +1,5 @@
 /**
  * Created by chenanguo on 2016/10/14.
  */
-console.log(1244444345688888);
-document.write("aaa");
+console.log("console.log输出的内容");
+document.write("document.write输出的内容");

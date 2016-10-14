@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --devtool eval-source-map --progress --colors --hot --inline --content-base ./dist"
+    "start": "webpack-dev-server --progress --colors --hot --inline --content-base ./dist"
   },
   "repository": {
     "type": "git",
