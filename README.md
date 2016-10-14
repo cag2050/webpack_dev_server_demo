@@ -1,8 +1,8 @@
 # webpack_dev_server161014
 
-webpack-dev-server支持2种自动刷新的方式：
-Iframe mode
-Inline mode
+webpack-dev-server支持2种自动刷新的方式：  
+Iframe mode  
+Inline mode  
 
 Inline mode方式下，访问路径：
 http://localhost:8080/
