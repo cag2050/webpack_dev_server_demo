@@ -1,0 +1,23 @@
+{
+  "name": "webpack_dev_server161014",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --devtool eval-source-map --progress --colors --hot  --content-base ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cag2050/webpack_dev_server161014.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cag2050/webpack_dev_server161014/issues"
+  },
+  "homepage": "https://github.com/cag2050/webpack_dev_server161014#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
