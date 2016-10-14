@@ -1,16 +1,16 @@
 # webpack_dev_server161014
 
 webpack-dev-server支持2种自动刷新的方式：  
-Iframe mode  
-Inline mode  
+1.Iframe模式  
+2.Inline模式  
 
-Inline mode方式下，访问路径：
+Inline模式下，访问路径：
 http://localhost:8080/
 
-Iframe mode方式下，访问路径：
+Iframe模式下，访问路径：
 http://localhost:8080/webpack-dev-server/index.html
 
-Iframe mode与Inline mode比较：
+Iframe模式与Inline模式比较：
 
 Iframe模式 特点：  
 1.配置不需要改变；  
