@@ -2,7 +2,7 @@
  * Created by chenanguo on 2016/10/14.
  */
 module.exports = {
-    entry: './src/js/index.js',
+    entry: './src/js/main.js',
     // 启动webpack-dev-server后，你在目标文件夹中是看不到编译后的文件的,实时编译后的文件都保存到了内存中。
     output: {
         path: './dist/js',
