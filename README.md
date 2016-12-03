@@ -29,5 +29,6 @@ Inline模式 特点：
 2. 执行npm run start，查看执行情况。    
 3. webpack-dev-server默认端口是8080。
 
-webstorm修改文件，webpack-dev-server不自动编译刷新的解决办法：  
+注意：---  
+webstorm修改文件，webpack-dev-server不自动编译刷新的解决办法：  
 “设置”--“系统设置”，选项“Use "safe write"(save changes to a temporary file first)”，不打勾。
