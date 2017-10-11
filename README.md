@@ -19,6 +19,7 @@ Inline模式：
 要想使用Inline模式，需要配置以下其一：    
 1. 在命令行指定 --inline 参数；    
 2. 在webpack.config.js中配置：devServer: { inline: true }  
+
 Inline模式 特点：    
 1. 需要配置上面说明的内容；  
 2. 状态信息在控制台显示；  
