@@ -1,4 +1,4 @@
-# webpack_dev_server161014
+# webpack_dev_server_demo
 
 webpack-dev-server支持2种自动刷新的方式：    
 1. Iframe模式  
